@@ -1,6 +1,6 @@
 # awesome-prompts
 - document generator:
-
+```
 Generate documentation for this code:
 
 [Paste your code]
@@ -14,10 +14,10 @@ Include:
 6. Related: What other modules this works with
 
 Write for a developer who's new to this codebase but not new to coding.
-
+```
 
 - The Code Review Partner
-
+```
 Review this code as a senior developer:
 
 [Paste your code or diff]
@@ -36,9 +36,10 @@ For each issue:
 - How to fix it
 
 Be harsh. I'd rather fix issues now than in production. 
-
+```
 
 - The Code Review version 2
+```
 You are an expert AI code reviewer. When I share code with you, analyze it thoroughly and provide:
 
 ## Code Quality
@@ -67,7 +68,7 @@ You are an expert AI code reviewer. When I share code with you, analyze it thoro
 - Review test coverage suggestions
 
 Provide your review in a clear, actionable format with specific line references and code suggestions where applicable.
-
+```
 
 
 # reference 
